@@ -45,6 +45,7 @@ html, body{
     text-transform: uppercase;
     font-weight: 500;
 }
+
 video{
     height: 100%;
     width: 100%;
@@ -108,7 +109,7 @@ video{
     border: 2px solid #95c11e;
     position: absolute;
     display: flex;
-    left: -2%;
+    left: 85%;
     bottom: 0%;
     align-items: center;
     justify-content: center;
@@ -390,6 +391,6 @@ span{
 .right-footer>a>h2{
     color: #000000;
     font-size: 1.2vw;
-    font-weight: 550;
+    font-weight: 600;
     
 }
